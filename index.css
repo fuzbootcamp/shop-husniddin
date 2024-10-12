@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.h-main{
+  padding: 70px 0;
+  background: url(images/Rectangle\ 2.png) no-repeat center center/cover; 
+ 
+ 
+  
+ 
+}
+
+.btns{
+    width: 180px;
+    height: 50px;
+    border-radius: 62px;
+    background-color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.h-left{
+    margin-left: 90px;
+    p{
+        font-size: 16px;
+        font-weight: 400;
+        color: #00000099;
+        padding: 9px 0;
+       
+
+    }
+
+}
+
+
+
+
+.main{
+    background-color: #000000;
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.hw{
+    font-size: 48px;
+    font-weight: 700;
+    color: #000000;
+    text-align: center;
+    padding: 60px 0;
+}
+
+
+.wrappers {
+    
+ display: grid;
+ grid-template-columns: repeat(4,1fr);
+ .card{
+    border: none;
+    .ujk{
+        width: 300px;
+    }
+ }
+ .hul{
+    width: 150px;
+ }
+
+ padding: 60px 0;
+
+  }
+
+  .arous{
+    width: 195px;
+    height: 50px;
+    border: 1px solid #0000001A;
+    border-radius: 62px;
+    color: #000000;
+   margin-left: 600px;
+    
+  }
+
+
+
+  .arouse{
+    width: 195px;
+    height: 50px;
+    border: 1px solid #0000001A;
+    border-radius: 62px;
+    color: #000000;
+   margin-left: 600px;
+  
+    
+  }
+
+
+  .asides{
+    padding: 60px 0;
+    
+    .iris{
+        width: 1519px;
+        height: 867px;
+        object-fit: cover;
+    }
+  }
+
+
+  .hhh{
+    font-size: 48px;
+    font-weight: 700;
+    color: #000000;
+  }
+
+  .iji{
+    width: 150px;
+  }
+
+  .wrapper{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0;
+    .card{
+        border-radius: 12px;
+        width: 400px;
+    
+    }
+  }
+
+
+  .mains img{
+    width: 1600px;
+    padding-left: 100px;
+   
+  }
+
+  .o-left{
+    padding: 60px 0;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    padding-left: 50px;
+
+    p{
+        color: #00000099;
+    }
+  }
+
+  .j-left{
+    display: flex;
+    justify-content: space-between;
+  }
